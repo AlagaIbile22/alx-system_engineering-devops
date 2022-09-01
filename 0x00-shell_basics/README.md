@@ -1,1 +1,1 @@
-move betty to /tmp/my_first_directory
+deleted betty from /tmp/my_first_directory
