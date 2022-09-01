@@ -1,1 +1,1 @@
-a script that creates a directory
+move betty to /tmp/my_first_directory
