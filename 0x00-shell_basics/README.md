@@ -1,1 +1,1 @@
-i love numbers
+a script that creates a directory
