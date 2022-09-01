@@ -1,1 +1,1 @@
-a command that lists all the files and directories
+magic school
