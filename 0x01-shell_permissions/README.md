@@ -1,1 +1,1 @@
-#!/bin/bash
+betty is my name
